@@ -3,7 +3,7 @@ export default function RootLayout({ children }: Readonly<{
 }>) {
 	return (
 		<main>
-			sidebar
+			SIDEBAR
 			{children}
 		</main>
 	)
